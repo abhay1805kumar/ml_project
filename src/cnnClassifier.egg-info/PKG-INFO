@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small package for CNN app
+Home-page: https://github.com/abhay1805kumar/ml_project
+Author: abhay1805kumar
+Author-email: k.abhay@iitg.ac.in
+Project-URL: Bug Tracker, https://github.com/abhay1805kumar/ml_project/issues
+Description-Content-Type: text/markdown
+
+# ml_project
+kidney_disease classification
